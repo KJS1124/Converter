@@ -1,0 +1,14 @@
+{
+  "0":{
+    "courseTitle":"abc",
+    "courseCode":"abc",
+    "sectionCode":"abc",
+    "sectionTitle":"abc"
+  },
+  "1":{
+    "courseTitle":"def",
+    "courseCode":"def",
+    "sectionCode":"def",
+    "sectionTitle":"def"
+  }
+}
